@@ -1,3 +1,4 @@
 # hello-world
 First GitHub repository
-First experiencee with GitHub, using this tutorial to get familiar with the workings.
+First experience with GitHub, using this tutorial to get familiar with the workings.
+Second try with GitHub, brushing up on the basics.
